@@ -1,0 +1,2 @@
+[workspace]
+members = ["aya-empty-string", "aya-empty-string-common", "xtask"]
